@@ -1,5 +1,1 @@
-# react-projects-7-slider
-
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+a counter app with increase and reset and decrease and odd and even recognition
